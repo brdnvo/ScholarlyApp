@@ -1,4 +1,4 @@
-# CS4750Project
+# Scholarly
 This is a flashcard application created by Brandon Vo. This app is currently featured on Google Play and requires Android version 6.0 and up to download.
 https://play.google.com/store/apps/details?id=com.company.ScholarlyApp&pli=1 
 
